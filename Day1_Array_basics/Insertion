@@ -12,5 +12,6 @@ After:
 Steps for Insertion
 arr = [10, 20, 30, 40]
 index = 2
+value = 25
 
 
