@@ -9,3 +9,13 @@ int[] arr = {10, 20, 30, 40, 50};
 for(int i = 0; i < arr.length; i++) {
     System.out.println(arr[i]);
 }
+
+
+
+Reverse Traversal
+
+You can also traverse from right to left.
+
+for(int i = arr.length - 1; i >= 0; i--) {
+    System.out.println(arr[i]);
+}
