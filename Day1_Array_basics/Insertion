@@ -10,4 +10,5 @@ After:
 10  20  25  30  40
 
 Steps for Insertion
+arr = [10, 20, 30, 40]
 
