@@ -25,5 +25,7 @@ arr[2] = 30;
 arr[3] = 40;
 
 int size = 4;
+int index = 2;
+
 
 
