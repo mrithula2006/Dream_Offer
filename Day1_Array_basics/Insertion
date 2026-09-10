@@ -17,5 +17,5 @@ value = 25
 
 
 Example:
-
+int[] arr = new int[10];
 
