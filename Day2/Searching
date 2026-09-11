@@ -22,6 +22,23 @@ Array = [10, 25, 30, 45, 50]
 Target = 45
 
 
+Binary Search:
+
+Binary search is much faster, but there is an important condition:
+
+The array must be sorted.
+
+Example:
+
+Array = [10, 20, 30, 40, 50, 60, 70]
+Target = 60
+
+Instead of checking every element, binary search repeatedly checks the middle.
+
+[10, 20, 30, 40, 50, 60, 70]
+               ↑
+             middle
+
 10 → 25 → 30 → 45 
                  ↑
               Found!
