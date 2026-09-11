@@ -17,6 +17,15 @@ Linear search checks the elements one by one from the beginning until it finds t
 
 Example:
 
+Linear search checks the elements one by one from the beginning until it finds the target.
+
+Example:
+
+Array = [10, 25, 30, 45, 50]
+Target = 45
+
+
+
 
 
 
