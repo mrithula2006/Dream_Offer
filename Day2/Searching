@@ -12,3 +12,7 @@ Answer: index 2
 Two main searching techniques
  1. Linear Search
  2. Binary Search
+
+Linear search checks the elements one by one from the beginning until it finds the target.
+
+
